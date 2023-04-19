@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARJUNSINGHAL
-- 👀 I’m interested in embedded system and electronics engineering, IoT.
-- 🌱 I’m currently learning some programming language and ARM microcontroller and communication protocols .
+- 👀 I’m interested in embedded system and electronics,IoT and also create project.
+- 🌱 I’m currelnty working on python and c programming for embedded and ARM,STM32,Esp32,Esp8266 microcontrollers .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunsinghal150@gmail.com.
 
